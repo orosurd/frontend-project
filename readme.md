@@ -1,0 +1,2 @@
+- A front end design project build using just html, css and javascript
+- The web page is responsive and adjusts automatically depending on whether you are using a computer screen or mobile device
